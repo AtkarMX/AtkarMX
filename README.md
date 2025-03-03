@@ -2,7 +2,7 @@
 ## Hello World! ⭐
 ##### I'm Angel, a Mexican Software Engineer 👋🏼:
 
-##  MyTech Stack 📚:
+##  My Tech Stack 📚:
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
